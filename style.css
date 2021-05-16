@@ -1,0 +1,27 @@
+ table, th, td {
+        border: 1px solid black;
+        border-collapse: collapse;
+    }
+    th, td {
+        padding: 5px;
+    }
+    th {
+        text-align: left;
+        color:blue;
+    }
+    #tab1{
+        border:6px solid GreenYellow;
+    }
+    #tab1 tr{
+        color:Purple;
+        background-color:DarkOrange;
+    }
+    body{
+        background-color:#FFDEAD;
+    }
+    h2{
+        color:DarkSlateBlue;
+    }
+    footer{
+        background-color:Chocolate;
+    }
